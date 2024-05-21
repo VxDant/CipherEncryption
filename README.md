@@ -1,4 +1,3 @@
-Implementing cipher encryption for optimizing and securing the software applications
+Learning and implementing the encryption technique - mono alphabetic cipher and poly alphabetic cipher
 
-you can find mono alphabetic cipher technique and poly alpha cipher technique in this repository
-
+Using these techniques one can securely send the message. The receiver can read the message only if he/she has the key. 
